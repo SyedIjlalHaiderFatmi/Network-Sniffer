@@ -1,6 +1,7 @@
 # Network-Sniffer
 build a network sniffer in Python to capture and analyze live network traffic
 This tool allows for the inspection of data packets as they flow across a network interface. It helps in understanding the hierarchical structure of network packets, specifically focusing on the IP and Transport layers.
+This was made as my internship task in a remote compmy 
 🛠️ Installation & Setup
 Prerequisites
 Python 3.x
